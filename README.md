@@ -2,7 +2,7 @@
 - 👀 I’m interested Gaming, reading, photography 
 - 🌱 I’m currently learning networking for comptia network + 
 - 💞️ I’m looking to collaborate on Front end web development projects/
-- 📫 How to reach me ...
+- 📫 Email: sameul.t.coker98@gmail.com 
 - 😄 Pronouns: He/Him 
 
 <!---
