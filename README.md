@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Samuel Coker 
-- 👀 I’m interested Gaming, reading, photography 
-- 🌱 I’m currently learning networking for comptia network + 
-- 💞️ I’m looking to collaborate on Front end web development projects/
-- 📫 Email: sameul.t.coker98@gmail.com 
-- 😄 Pronouns: He/Him 
+- 👋 Hi,I'm Com3t 
+-  I'm a python hobbyist that enjoys writing python script. I like making automation tools that help It support technicains, games. web apps and other neat things  
+-  I'm also taking requests for entry level project ideas.  
+  Email: sameul.t.coker98@gmail.com 
+  
 
 <!---
 Com3tCod3s/Com3tCod3s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
